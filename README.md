@@ -1,1 +1,1 @@
-# wishbud_ai
+# wishbud-ai
